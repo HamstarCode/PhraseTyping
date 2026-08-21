@@ -25,9 +25,9 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Templates
+              Templatessssss
             </a>{" "}
-            or the{" "}
+            orrrrrrrrrr the{" "}
             <a
               href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
               target="_blank"
