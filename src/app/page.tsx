@@ -1,4 +1,6 @@
 import styles from "./page.module.css";
+import Link from "next/link";
+
 
 export default function Home() {
   return (
@@ -21,9 +23,11 @@ export default function Home() {
         </div>
 
         <div className={styles.actions}>
-          <button className={styles.createButton} type="button">
-            TYPE ROOM作成
-          </button>
+          <Link href="/typing">
+            <button className={styles.createButton} type="button">
+              TYPE ROOM作成
+            </button>
+          </Link>
           <button className={styles.roomListButton} type="button">
             ROOM一覧
           </button>

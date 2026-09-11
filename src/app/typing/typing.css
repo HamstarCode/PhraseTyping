@@ -1,0 +1,18 @@
+.message {
+  width: fit-content;
+  max-width: 70%;
+  padding: 12px 16px;
+  border-radius: 16px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.speaker-1 {
+  background-color: #dbeafe;
+  margin-left: auto;
+}
+
+.speaker-2 {
+  background-color: #eeeeee;
+  margin-right: auto;
+}
