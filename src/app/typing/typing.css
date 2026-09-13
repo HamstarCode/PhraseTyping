@@ -16,3 +16,32 @@
   background-color: #eeeeee;
   margin-right: auto;
 }
+.now-typing {
+  width: fit-content;
+  max-width: 70%;
+  margin-left: auto;
+  margin-top: 16px;
+
+  padding: 14px 18px;
+
+  border: 2px dashed #999;
+  border-radius: 16px;
+
+  background-color: #fafafa;
+}
+
+.now-typing-label {
+  margin: 0 0 8px;
+
+  font-size: 12px;
+  font-weight: bold;
+
+  color: #777;
+}
+.typed {
+  color: #000000;
+}
+
+.untyped {
+  color: #aaaaaa;
+}
